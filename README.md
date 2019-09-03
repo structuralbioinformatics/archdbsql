@@ -6,6 +6,8 @@ Install with:
 pip install https://github.com/structuralbioinformatics/archdbsql/archive/v0.1.zip
 ```
 
+If you don't have SQL access to ArchDB14, you can donwload a minified SQLdump at http://sbi.upf.edu/archdb/download
+
 If of use, please cite:
 
 Bonet, J., Planas-Iglesias, J., Garcia-Garcia, J., Marin-Lopez, M.A., Fernandez-Fuentes, N., Oliva, B. ArchDB 2014: structural classification of loops in proteins. Nucleic Acids Res. http://doi.org/10.1093/nar/gkt1189
